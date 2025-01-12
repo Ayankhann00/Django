@@ -1,0 +1,18 @@
+body {
+  font-size: em;
+  background-color: blue;
+  align-items: center;
+  justify-content: center;
+}
+p2 {
+  font-size: 1.5em;
+  color: white;
+  text-align: center;
+  justify-content: center;
+}
+h1 {
+  font-size: 2em;
+  color: white;
+  text-align: center;
+  justify-content: center;
+}
